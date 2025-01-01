@@ -1,0 +1,20 @@
+h1,p{
+    font-family: Libre Baskerville,serif;
+    color:aqua;
+    text-transform: uppercase;
+  }
+img{
+    margin-top: 40px;
+    width: 50%;
+    border: 10px solid blue;
+}
+div{
+    width: 50%;
+    margin-left:25%;
+    text-align: center;
+    border: 5px solid red;
+  }
+  body{
+    background-color: purple;
+  }
+  
